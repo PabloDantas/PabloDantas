@@ -1,10 +1,10 @@
 
    ### Hello 👋
 
-- 👨‍ ‍Sou Pablo, tenho 21 anos, sou de Salvador - BA
+- 👨‍ ‍Sou Pablo, tenho 24 anos, sou de Salvador - BA
 - 📘 Cursando Analise e desenvolvimento de sistemas
 - 👨‍🎓 Estudante Full Stack
-- 🌱 Estudando Spring e React 
+- 🌱 Estudando Node, React e ReactNative
 - 📫 Contate-me no email: pablodesouzadantas@gmail.com
 - *Só o conhecimento liberta o homem*
 
@@ -33,6 +33,7 @@
   - Spring Framework (Boot, Data JPA, Security e Web)
   - JSP
   - SQL (MySQL, Postgres)
+  - NodeJS
 
 - Frontend
   - HTML
