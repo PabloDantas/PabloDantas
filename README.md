@@ -2,7 +2,7 @@
    ### Hello 👋
 
 - 👨‍ ‍Sou Pablo, tenho 24 anos, sou de Salvador - BA
-- 📘 Cursando Analise e desenvolvimento de sistemas
+- 📘 Formado em Analise e desenvolvimento de sistemas
 - 👨‍🎓 Estudante Full Stack
 - 🌱 Estudando Node, React e ReactNative
 - 📫 Contate-me no email: pablodesouzadantas@gmail.com
